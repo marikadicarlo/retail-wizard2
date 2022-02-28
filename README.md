@@ -30,7 +30,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Table of Contents
 - [Installation](#Installation)
-- [Link](#Link)
+- [Links](#Links)
 - [Questions](#Questions)
 
 ## Installation
