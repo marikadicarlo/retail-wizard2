@@ -1,7 +1,7 @@
 # retail-wizard2
 
-[Click Here Video]()
-![retail-wizard]()
+[Walkthrough Videos](https://drive.google.com/drive/folders/1IZDMgrhbS4oWKBEOIASOgr-PEjFQQwjW)
+
 
 # Description
 This is the back end for an e-commerce site, Retail Wizard. This application takes a working Express.js API and configures it to use Sequelize to interact with a MySQL database.
@@ -35,14 +35,14 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Installation
 
-`git clone `
+Use `cd` and `git clone` https://github.com/marikadicarlo/retail-wizard2.git 
 
-Run `npm install` to install dependencies. To use the application locally, run `node server.js` in your CLI.
+Run `npm init`, and make sure the `package.json` is updated with "start": "node server.js"
 
+Run `npm install express sequelize mysql2` to install dependencies. To use the application locally, run `node server.js`.
 
 ## Links
-[Link to the Deployed Site]() <br />
-[Link to the GitHub Repository]()
+[Link to the GitHub Repository](https://marikadicarlo.github.io/retail-wizard2/)
 
 
 ## Questions
